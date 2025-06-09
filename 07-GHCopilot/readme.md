@@ -111,11 +111,12 @@ Then type your question or request—Copilot responds right there in context.
 ## ⚡ Slash Commands = Speed Mode
 Use / to unlock quick actions:
 
-**Slash Command       What It Does**
-/explain	            Breaks down what the code does 🧠
-/suggest	            Gives smart code suggestions 💡
-/tests	              Auto-generates unit tests 🧪
-/comment	            Turns comments into working code ✍️
+| Slash Command | What it Does   |
+|---------------|--------------------------------------|
+| /explain      | Breaks down what the code does 🧠    |
+| /suggest      |  Gives smart code suggestions 💡     |
+| /tests        |  Auto-generates unit tests 🧪        |
+| /comment      |  Turns comments into working code ✍️ |
 
 To use a slash command, just type the command in your editor and press Enter. For example:
 ```Python
