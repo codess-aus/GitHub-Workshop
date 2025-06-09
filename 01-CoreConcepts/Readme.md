@@ -70,6 +70,7 @@ It’s like Google Drive for code—but way smarter.
 1. Go to GitHub.com
 
 2. Click the ➕ in the top-right → hit New repository
+
 ![New Repo](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/1-new-repo-option.png)
 
 4. Pick who owns it (you or your org)
