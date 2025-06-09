@@ -6,13 +6,13 @@ You’re about to flex your GitHub skills by completing a series of mini-challen
 
 Think of it like a level-up quest for:
 
-- ⌨️ Start a Codespace
-- ⌨️ Push code to your repository from the codespace
-- ⌨️ Activity: Add a .devcontainer.json file to customize your codespace
-- ⌨️ Activity: Add customizations to the devcontainer file
-- ⌨️ Activity: Execute code upon creation of the codespace
-- ⌨️ Activity: Enable a dotfile for your codespace
-- ⌨️ Activity: Add a dotfile to your repository and run your codespace
+- 🚀 Start a Codespace – Launch your cloud dev zone
+- 📤 Push code – Send your updates to the repo
+- 🛠️ Add .devcontainer.json – Customize your setup
+- 🎨 Add customizations – Make it your dev vibe
+- ⚡ Run code on creation – Auto-execute setup magic
+- 🧩 Enable a dotfile – Personalize your environment
+- 📁 Add dotfile to repo + run – Lock in your custom config
 
 ## 🚀 How to Start
 
