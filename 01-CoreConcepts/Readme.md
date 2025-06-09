@@ -68,11 +68,17 @@ It’s like Google Drive for code—but way smarter.
 
 ## 🚀 How to Create a Repo (No Stress)
 1. Go to GitHub.com
+
 ![New Repo](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/1-new-repo-option.png)
+
 2. Click the ➕ in the top-right → hit New repository
+
 ![Owner](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/2-selecting-repo-owner.png) 
+
 3. Pick who owns it (you or your org)
+
 ![Repo Name](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/3-repo-name-text-box.png)
+
 4. Name it, describe it (optional but ✨vibes✨)
 5. Choose visibility:
   - 🌍 Public = anyone can see it
@@ -83,15 +89,23 @@ Boom. You’ve got a repo.
 ## 📁 Adding Files Like a Pro
 1. Go to your repo’s main page
 2. Click Add file → Create new file or upload one
+
 ![Add File](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/4-add-file-options.png)
+
 3. Name your file (add folders with / if needed)
 4. Type your content
 5. Hit Preview to check it
+
 ![[Preview](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/5-preview-option-in-a-file.png)
+
 6. Write a short commit message (like “added README”)
+
 ![Message](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/6-commit-description-box.png)
+
 7. Choose to commit to the main branch or make a new one
+
 ![New Branch](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/7-create-a-new-branch.png)
+
 8. Click Commit changes or Propose changes
 Congrats—you just made your first file and commit! 🥳
 
