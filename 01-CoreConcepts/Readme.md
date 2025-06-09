@@ -98,7 +98,7 @@ Boom. You’ve got a repo.
 4. Type your content
 5. Hit Preview to check it
 
-![[Preview](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/5-preview-option-in-a-file.png)
+![Preview](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/5-preview-option-in-a-file.png)
 
 6. Write a short commit message (like “added README”)
 
