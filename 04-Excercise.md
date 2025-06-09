@@ -4,10 +4,10 @@
 You’re about to flex your GitHub skills by completing a series of mini-challenges.
 
 Think of it like a level-up quest for:
-- 🔀 Committing a branch
-- 📄 Committing a file
-- 🔁 Opening a pull request
-- ✅ Merging that pull request
+- 🔀 Create a branch
+- 📄 Commit a file
+- 🔁 Open a pull request
+- ✅ Merge that pull request
 
 ## 🚀 How to Start
 
