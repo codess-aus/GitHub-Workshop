@@ -69,20 +69,21 @@ It’s like Google Drive for code—but way smarter.
 ## 🚀 How to Create a Repo (No Stress)
 1. Go to GitHub.com
 
+2. Click the ➕ in the top-right → hit New repository
 ![New Repo](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/1-new-repo-option.png)
 
-2. Click the ➕ in the top-right → hit New repository
+4. Pick who owns it (you or your org)
 
 ![Owner](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/2-selecting-repo-owner.png) 
 
-3. Pick who owns it (you or your org)
+4. Name it, describe it (optional but ✨vibes✨)
 
 ![Repo Name](https://github.com/codess-aus/GitHub-Workshop/blob/36c835aa22e4d4eb27a4ab14c6b95d8e1fb02f1d/assets/3-repo-name-text-box.png)
 
-4. Name it, describe it (optional but ✨vibes✨)
 5. Choose visibility:
   - 🌍 Public = anyone can see it
   - 🔒 Private = just you + your squad
+
 6. Hit Create repository 🎉
 Boom. You’ve got a repo.
 
