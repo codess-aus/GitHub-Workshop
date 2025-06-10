@@ -28,27 +28,22 @@ nav:
   - Core Concepts: 01-CoreConcepts/index.md
   - Components: 02-Components/index.md
   - Collaboration: 03-Collaboration/index.md
-  - Exercise 1: 04-Excercise/index.md
+  - "Exercise: GitHub Basics": 04-Excercise/index.md
   - Codespaces: 05-Codespaces/index.md
-  - Exercise 2: 06-Excercise/index.md
+  - "Exercise: Codespaces": 06-Excercise/index.md
   - GitHub Copilot: 07-GHCopilot/index.md
-  - Exercise 3: 08-Exercise/index.md
+  - "Exercise: Copilot": 08-Exercise/index.md
   - Code Scanning: 09-CodeScanning/index.md
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.emoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - admonition
-  - pymdownx.details
-  - tables
 
 plugins:
   - search
   - minify:
       minify_html: true
+      minify_js: true
+      minify_css: true
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji
