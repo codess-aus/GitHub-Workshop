@@ -1,0 +1,49 @@
+site_name: GitHub Workshop
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Introduction: 00-Introduction/index.md
+  - Core Concepts: 01-CoreConcepts/index.md
+  - Components: 02-Components/index.md
+  - Collaboration: 03-Collaboration/index.md
+  - "Exercise: GitHub Basics": 04-Excercise/index.md
+  - Codespaces: 05-Codespaces/index.md
+  - "Exercise: Codespaces": 06-Excercise/index.md
+  - GitHub Copilot: 07-GHCopilot/index.md
+  - "Exercise: Copilot": 08-Exercise/index.md
+  - Code Scanning: 09-CodeScanning/index.md
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji
