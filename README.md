@@ -10,3 +10,5 @@ Welcome! Use the navigation to explore each section of the workshop. Start with 
 - Exercises: Hands-on activities to practice your skills.
 
 Enjoy your learning journey!
+
+[GitHub Workshop](https://codess-aus.github.io/GitHub-Workshop/)
