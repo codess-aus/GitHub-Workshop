@@ -5,6 +5,7 @@
 You're about to flex your GitHub skills by completing a series of mini-challenges.
 
 Think of it like a level-up quest for:
+
 - 🔀 Create a branch
 - 📄 Commit a file
 - 🔁 Open a pull request
