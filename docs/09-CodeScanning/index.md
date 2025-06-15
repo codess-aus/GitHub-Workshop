@@ -4,8 +4,9 @@
 # 🕵️‍♀️ What's Code Scanning?
 It's like a security scanner for your code.
 GitHub uses CodeQL to sniff out bugs 🐛 and vulnerabilities 🔓 in your repo.
+
 - ✅ Works on public repos
-- 🔐 Also works on private org repos (if GitHub Advanced Security is enabled)
+- 🔐 Also works on private org repos (if GitHub Advanced Security is enabled
 - 🚨 Alerts show up in the Security tab
 - 🧹 Fix the code → alert disappears
 
