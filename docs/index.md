@@ -10,4 +10,4 @@ Welcome! Use the navigation to explore each section of the workshop. Start with 
 
 Enjoy your learning journey!
 
-![Mona](https://github.com/codess-aus/GitHub-Workshop/blob/03d9cfc1d6c9dafea71e2fcdb4437dda4e34e3a7/docs/assets/40bd3c96-c41c-49ed-ae21-f11924a787be.png)
+![Mona](assets/40bd3c96-c41c-49ed-ae21-f11924a787be.png)
